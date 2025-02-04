@@ -64,3 +64,11 @@ C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithSta
 C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\3_FirstAppQuotesAPIWithStatusCode.csproj.CopyComplete
 C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\2_FirstAppQuotesAPIWithDBEF.dll
 C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\2_FirstAppQuotesAPIWithDBEF.pdb
+C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\_2_FirstAppQuotesAPIWithDBEF.Migrations.QuoteTypeAdded.resources
+C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\3_FirstAppQuotesAPIWithStatusCode.csproj.GenerateResource.cache
+C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\_2_FirstAppQuotesAPIWithDBEF.Migrations.QuoteTypeDeleted.resources
+C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\_2_FirstAppQuotesAPIWithDBEF.Migrations.QuoteTypeAddedAgain.resources
+C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\_2_FirstAppQuotesAPIWithDBEF.Migrations.QuoteTypeDeletedAGain.resources
+C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\_2_FirstAppQuotesAPIWithDBEF.Migrations.QuoteTypeAddedAgainAgain.resources
+C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\_2_FirstAppQuotesAPIWithDBEF.Migrations.QuoteCreatedDateAdded.resources
+C:\Users\swapn\Desktop\Rohan\API\Workings\1. FirstApp\3_FirstAppQuotesAPIWithStatusCode\2_FirstAppQuotesAPIWithDBEF\obj\Debug\_2_FirstAppQuotesAPIWithDBEF.Migrations.QuoteValidationAdded.resources

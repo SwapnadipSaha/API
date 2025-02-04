@@ -113,6 +113,35 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202502031200287_QuoteTypeAdded.cs" />
+    <Compile Include="Migrations\202502031200287_QuoteTypeAdded.designer.cs">
+      <DependentUpon>202502031200287_QuoteTypeAdded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202502031206017_QuoteTypeDeleted.cs" />
+    <Compile Include="Migrations\202502031206017_QuoteTypeDeleted.designer.cs">
+      <DependentUpon>202502031206017_QuoteTypeDeleted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202502031206445_QuoteTypeAddedAgain.cs" />
+    <Compile Include="Migrations\202502031206445_QuoteTypeAddedAgain.designer.cs">
+      <DependentUpon>202502031206445_QuoteTypeAddedAgain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202502031208298_QuoteTypeDeletedAGain.cs" />
+    <Compile Include="Migrations\202502031208298_QuoteTypeDeletedAGain.designer.cs">
+      <DependentUpon>202502031208298_QuoteTypeDeletedAGain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202502031211281_QuoteTypeAddedAgainAgain.cs" />
+    <Compile Include="Migrations\202502031211281_QuoteTypeAddedAgainAgain.designer.cs">
+      <DependentUpon>202502031211281_QuoteTypeAddedAgainAgain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202502031220055_QuoteCreatedDateAdded.cs" />
+    <Compile Include="Migrations\202502031220055_QuoteCreatedDateAdded.designer.cs">
+      <DependentUpon>202502031220055_QuoteCreatedDateAdded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202502031241165_QuoteValidationAdded.cs" />
+    <Compile Include="Migrations\202502031241165_QuoteValidationAdded.designer.cs">
+      <DependentUpon>202502031241165_QuoteValidationAdded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Quote.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -127,6 +156,29 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202502031200287_QuoteTypeAdded.resx">
+      <DependentUpon>202502031200287_QuoteTypeAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202502031206017_QuoteTypeDeleted.resx">
+      <DependentUpon>202502031206017_QuoteTypeDeleted.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202502031206445_QuoteTypeAddedAgain.resx">
+      <DependentUpon>202502031206445_QuoteTypeAddedAgain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202502031208298_QuoteTypeDeletedAGain.resx">
+      <DependentUpon>202502031208298_QuoteTypeDeletedAGain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202502031211281_QuoteTypeAddedAgainAgain.resx">
+      <DependentUpon>202502031211281_QuoteTypeAddedAgainAgain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202502031220055_QuoteCreatedDateAdded.resx">
+      <DependentUpon>202502031220055_QuoteCreatedDateAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202502031241165_QuoteValidationAdded.resx">
+      <DependentUpon>202502031241165_QuoteValidationAdded.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -37,6 +37,10 @@ namespace QuotesThreeAPI.Controllers
         // POST: api/QuotesThree
         public IHttpActionResult Post([FromBody] Quote quote)
         {
+            if(!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             _quotesDbContext.Quotes.Add(quote);
             _quotesDbContext.SaveChanges();
             return StatusCode(HttpStatusCode.Created);
@@ -45,6 +49,10 @@ namespace QuotesThreeAPI.Controllers
         // PUT: api/QuotesThree/5
         public IHttpActionResult Put(int id, [FromBody] Quote quote)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var entity = _quotesDbContext.Quotes.FirstOrDefault(q => quote.Id == id);
             if (entity == null)
             {
